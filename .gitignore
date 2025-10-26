@@ -114,3 +114,14 @@ __pycache__
 # project
 svgs/
 build/
+
+# macOS
+.DS_Store
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Derived asset folders
+unicode/
+schmoji/
